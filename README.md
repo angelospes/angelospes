@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ângelo Pes
-- 👀 I’m interested in tecnology and law.
+- 👀 I’m interested in technology and law.
 - 📫 How to reach me by email
 
 <!---
